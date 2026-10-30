@@ -1,4 +1,5 @@
-# 🧬 HSGauss
+# 🧠 HSGauss
+
 
 **Hierarchical Semantics-Enhanced Gaussian Representation Learning**
 
